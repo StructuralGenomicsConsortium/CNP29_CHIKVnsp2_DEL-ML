@@ -1,5 +1,5 @@
 # CNP29_CHIKVnsp2_DEL-ML
-An SGC Open Chemistry Networks Project (number 29) dedicated to finding hits vs CHIKV nsp2 helicase based on a DEL screen and subsequent machine learning by X-Chem.
+An SGC Open Chemistry Networks Project (number 29) dedicated to finding hits vs CHIKV nsp2 protease based on a DEL screen and subsequent machine learning by X-Chem.
 * **For the science background**, head to the [Wiki page](https://github.com/StructuralGenomicsConsortium/CNP29_CHIKVnsp2_DEL-ML/wiki) to check out all the details and the live paper being written there.
 
 ## General information 
