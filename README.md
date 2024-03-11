@@ -14,7 +14,7 @@ If you'd like to contact someone to talk about contributing, then write somethin
 
 Some of the people involved in this CNP:  
 Professor Matthew Todd, University College London, Head of Chemistry Networks at the SGC - [@mattodd](https://github.com/mattodd)  
-Professor Tim Willson, University of North Carolina Chapel Hill - @tmw20653    
+Professor Tim Willson, University of North Carolina Chapel Hill - [@tmw20653](https://github.com/tmw20653)    
  
  
 
